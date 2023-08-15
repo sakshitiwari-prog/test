@@ -1,5 +1,0 @@
-{{#user}
-Name: Sakshi Tiwari
-Skills: HTML, CSS, JS, Next.js, React.js
-Email: sakshit3849@gmail.com
-{{/user}}
